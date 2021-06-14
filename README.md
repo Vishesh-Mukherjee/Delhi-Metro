@@ -28,4 +28,4 @@ StationC</br>
 </br>
 Note: It is assumed that all the lines are forming a closed-shape.</br>
 </br>
-</br> Simple testing is done using JUnit. Use-case and class diagram is also provided. Txt File contains all the stations and lines of Delhi-Metro.
+Simple testing is done using JUnit. Use-case and class diagram is also provided. Txt File contains all the stations and lines of Delhi-Metro.
