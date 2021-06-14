@@ -1,0 +1,565 @@
+Rithala
+Rohini West
+Rohini East
+Pitam Pura
+Kohat Enclave
+Netaji Subhash Place
+Keshav Puram
+Kanhiya Nagar
+Inderlok
+Shastri Nagar
+Pratap Nagar
+Pul Bangash
+Tis Hazari
+Kashmere Gate
+Shastri Park
+Welcome
+Shahdara
+Mansarovar
+Jhilmil
+Dilshad Garden
+Shahid Nagar
+Raj Bagh
+Rajendra Nagar
+Shyam Park
+Mohan Nagar
+Arthala Hindon
+New Bus Adda
+Samaypur Badli
+Rohini Sector 18, 19
+Haiderpur Badli Mor
+Jahangirpuri
+Adarsh Nagar
+Azadpur
+Model Town
+GTB Nagar
+Vishwa Vidyalaya
+Vidhan Sabha
+Civil Lines
+Chandni Chowk
+Chawri Bazar
+New Delhi
+Rajiv Chowk
+Patel Chowk
+Central Secretariat
+Udyog Bhawan
+Lok Kalyan Marg
+Jor Bagh
+Dillii Haat
+AIIMS
+Green Park
+Hauz Khas
+Malviya Nagar
+Saket
+Qutub Minar
+Chhatarpur
+Sultanpur
+Ghitorni
+Arjan Garh
+Guru Dronacharya
+Sikandarpur
+MG Road
+IFFCO Chowk
+HUDA City Centre
+Dwarka Sector 21
+Dwarka Sector 8
+Dwarka Sector 9
+Dwarka Sector 10
+Dwarka Sector 11
+Dwarka Sector 12
+Dwarka Sector 13
+Dwarka Sector 14
+Dwarka
+Dwarka Mor
+Nawada
+Uttam Nagar West
+Uttam Nagar East
+Janakpuri West
+Janakpuri East
+Tilak Nagar
+Subhash Nagar
+Tagore Garden
+Rajouri Garden
+Ramesh Nagar
+Moti Nagar
+Kirti Nagar
+Shadipur
+Patel Nagar
+Rajendra Place
+Karol Bagh
+Jhandewalan
+Ramakrishna Ashram Marg
+Barakhambha Road
+Mandi House
+Pragati Maidan
+Indraprastha
+Yamuna Bank
+Akshardham
+Mayur Vihar Phase - 1
+Mayur Vihar Extension
+New Ashok Nagar
+Noida Sector 15
+Noida Sector 16
+Noida Sector 18
+Botanical Garden
+Golf Course
+Noida City Centre
+Noida Sector 34
+Noida Sector 52
+Noida Sector 61
+Noida Sector 59
+Noida Sector 62
+Noida Electronic City
+Laxmi Nagar
+Nirman Vihar
+Preet Vihar
+Karkarduma
+Anand Vihar
+Kaushambi
+Vaishali
+Brigadier Hoshiar Singh
+Bahadurgarh City
+Pandit Shree Ram Sharma
+Tikri Border
+Tikri Kalan
+Ghevra Metro Station
+Mundka Industrail Area
+Mundka
+Randhani Park
+Nangloi Railway Station
+Nangloi
+Surajmal Stadium
+Udyog Nagar
+Peera Garhi
+Paschim Vihar West
+Paschim Vihar East
+Madipur
+Shivji Park
+Punjabi Bagh
+Ashok Park Main
+Lal Qila
+Jama Masjid
+Delhi Gate
+ITO
+Janpath
+Khan Market
+Jangpura
+Lajpat Nagar
+Moolchand
+Kailash Colony
+Nehru Place
+Kalkaji Mandir
+Govind Puri
+Harkesh Nagar Okhla
+Jasola Apollo
+Sarita Vihar
+Mohan Estate
+Tughlakabad
+Badarpur Border
+Sarai
+NHPC Chowk
+Mewla Maharajpur
+Sector 28
+Badkhal Mor
+Old Faridabad
+Neelam Chowk Ajronda
+Bata Chowk
+Escorts Mujesar
+Sant Surdas
+Raja Nahar Singh
+Majlis Park
+Shalimar Bagh
+Shakurpur
+Punjabi Bhag West
+ESI Basai Dara Pur
+Maya Puri
+Naraina Vihar
+Delhi Cantt
+Durgabai DeshMukh South Campus
+Sir Vishweshwariah Moti Bagh
+Bhikaji Cama Place
+Sarojini Nagar
+South Extension
+Vinobapuri
+Ashram
+Sarai Kale Khan-Nizamuddin
+Mayur Vihar Pocket 1
+Trilokpuri Sanjay Lake
+East Vinod Nagar - Mayur Vihar - 2
+Mandawali - West Vinod Nagar
+IP Extension
+Karkarduma Court
+Krishna Nagar
+East Azad Nagar
+Jaffrabad
+Maujpur - Babarpur
+Gokulpuri
+Johri Enclave
+Shiv Vihar
+Dabri Mor - Janakpuri South
+Dashrath Puri
+Palam
+Sadar Bazaar Cantonment
+Terminal 1 IGI Airport
+Shankar Vihar
+Vasant Vihar
+Munrika
+R.K Puram
+IIT Delhi
+Panchsheel
+Chirag Delhi
+Greater Kailash
+Nehru Enclave
+Okhla NSIC
+Sukhdev Vihar
+Jamia Millia Islamia
+Okhla Vihar
+Jasola Vihar Shaheen Bagh
+Kalindi Kunj
+Okhla Bird Sanctuary
+Nangli
+Najafgarh
+Noida Sector 51
+Noida Sector 50
+Noida Sector 76
+Noida Sector 101
+Noida Sector 81
+NSEZ
+Noida Sector 83
+Noida Sector 137
+Noida Sector 142
+Noida Sector 143
+Noida Sector 144
+Noida Sector 145
+Noida Sector 146
+Noida Sector 147
+Noida Sector 148
+Knowledge Park - 2
+Pari Chowk
+Alpha - 1
+Delta - 1
+GNIDA Office
+Depot
+Sector 55-56
+Sector 54 Chowk
+Sector 53-54
+Sector 42-43
+Phase - 1
+Phase - 2
+Phase - 3
+Micromax Moulasri Avenue
+Induslnd Bank Cyber City
+Vodafone Belvedere Towers
+Shivaji Stadium
+Dhaula Kuan
+Delhi Aerocity
+Airport
+
+Red Line
+Rithala
+Rohini West
+Rohini East
+Pitam Pura
+Kohat Enclave
+Netaji Subhash Place
+Keshav Puram
+Kanhiya Nagar
+Inderlok
+Shastri Nagar
+Pratap Nagar
+Pul Bangash
+Tis Hazari
+Kashmere Gate
+Shastri Park
+Welcome
+Shahdara
+Mansarovar
+Jhilmil
+Dilshad Garden
+Shahid Nagar
+Raj Bagh
+Rajendra Nagar
+Shyam Park
+Mohan Nagar
+Arthala Hindon
+New Bus Adda
+
+Yellow Line
+Samaypur Badli
+Rohini Sector 18, 19
+Haiderpur Badli Mor
+Jahangirpuri
+Adarsh Nagar
+Azadpur
+Model Town
+GTB Nagar
+Vishwa Vidyalaya
+Vidhan Sabha
+Civil Lines
+Kashmere Gate
+Chandni Chowk
+Chawri Bazar
+New Delhi
+Rajiv Chowk
+Patel Chowk
+Central Secretariat
+Udyog Bhawan
+Lok Kalyan Marg
+Jor Bagh
+Dillii Haat
+AIIMS
+Green Park
+Hauz Khas
+Malviya Nagar
+Saket
+Qutub Minar
+Chhatarpur
+Sultanpur
+Ghitorni
+Arjan Garh
+Guru Dronacharya
+Sikandarpur
+MG Road
+IFFCO Chowk
+HUDA City Centre
+
+Blue Line
+Dwarka Sector 21
+Dwarka Sector 8
+Dwarka Sector 9
+Dwarka Sector 10
+Dwarka Sector 11
+Dwarka Sector 12
+Dwarka Sector 13
+Dwarka Sector 14
+Dwarka
+Dwarka Mor
+Nawada
+Uttam Nagar West
+Uttam Nagar East
+Janakpuri West
+Janakpuri East
+Tilak Nagar
+Subhash Nagar
+Tagore Garden
+Rajouri Garden
+Ramesh Nagar
+Moti Nagar
+Kirti Nagar
+Shadipur
+Patel Nagar
+Rajendra Place
+Karol Bagh
+Jhandewalan
+Ramakrishna Ashram Marg
+Rajiv Chowk
+Barakhambha Road
+Mandi House
+Pragati Maidan
+Indraprastha
+Yamuna Bank
+Akshardham
+Mayur Vihar Phase - 1
+Mayur Vihar Extension
+New Ashok Nagar
+Noida Sector 15
+Noida Sector 16
+Noida Sector 18
+Botanical Garden
+Golf Course
+Noida City Centre
+Noida Sector 34
+Noida Sector 52
+Noida Sector 61
+Noida Sector 59
+Noida Sector 62
+Noida Electronic City
+
+Blue Line
+Yamuna Bank
+Laxmi Nagar
+Nirman Vihar
+Preet Vihar
+Karkarduma
+Anand Vihar
+Kaushambi
+Vaishali
+
+Green Line
+Brigadier Hoshiar Singh
+Bahadurgarh City
+Pandit Shree Ram Sharma
+Tikri Border
+Tikri Kalan
+Ghevra Metro Station
+Mundka Industrail Area
+Mundka
+Randhani Park
+Nangloi Railway Station
+Nangloi
+Surajmal Stadium
+Udyog Nagar
+Peera Garhi
+Paschim Vihar West
+Paschim Vihar East
+Madipur
+Shivji Park
+Punjabi Bagh
+Ashok Park Main
+Inderlok
+
+Green Line
+Kirti Nagar
+
+Violet Line
+Kashmere Gate
+Lal Qila
+Jama Masjid
+Delhi Gate
+ITO
+Mandi House
+Janpath
+Central Secretariat
+Khan Market
+Jangpura
+Lajpat Nagar
+Moolchand
+Kailash Colony
+Nehru Place
+Kalkaji Mandir
+Govind Puri
+Harkesh Nagar Okhla
+Jasola Apollo
+Sarita Vihar
+Mohan Estate
+Tughlakabad
+Badarpur Border
+Sarai
+NHPC Chowk
+Mewla Maharajpur
+Sector 28
+Badkhal Mor
+Old Faridabad
+Neelam Chowk Ajronda
+Bata Chowk
+Escorts Mujesar
+Sant Surdas
+Raja Nahar Singh
+
+Pink Line
+Majlis Park
+Azadpur
+Shalimar Bagh
+Netaji Subhash Place
+Shakurpur
+Punjabi Bhag West
+ESI Basai Dara Pur
+Rajouri Garden
+Maya Puri
+Naraina Vihar
+Delhi Cantt
+Durgabai DeshMukh South Campus
+Sir Vishweshwariah Moti Bagh
+Bhikaji Cama Place
+Sarojini Nagar
+Dillii Haat
+South Extension
+Lajpat Nagar
+Vinobapuri
+Ashram
+Sarai Kale Khan-Nizamuddin
+Mayur Vihar Phase - 1
+Mayur Vihar Pocket 1
+Trilokpuri Sanjay Lake
+East Vinod Nagar - Mayur Vihar - 2
+Mandawali - West Vinod Nagar
+IP Extension
+Anand Vihar
+Karkarduma
+Karkarduma Court
+Krishna Nagar
+East Azad Nagar
+Welcome
+Jaffrabad
+Maujpur - Babarpur
+Gokulpuri
+Johri Enclave
+Shiv Vihar
+
+Magenta Line
+Janakpuri West
+Dabri Mor - Janakpuri South
+Dashrath Puri
+Palam
+Sadar Bazaar Cantonment
+Terminal 1 IGI Airport
+Shankar Vihar
+Vasant Vihar
+Munrika
+R.K Puram
+IIT Delhi
+Hauz Khas
+Panchsheel
+Chirag Delhi
+Greater Kailash
+Nehru Enclave
+Kalkaji Mandir
+Okhla NSIC
+Sukhdev Vihar
+Jamia Millia Islamia
+Okhla Vihar
+Jasola Vihar Shaheen Bagh
+Kalindi Kunj
+Okhla Bird Sanctuary
+Botanical Garden
+
+Grey Line
+Dwarka
+Nangli
+Najafgarh
+
+Aqua Line
+Noida Sector 52
+Noida Sector 51
+Noida Sector 50
+Noida Sector 76
+Noida Sector 101
+Noida Sector 81
+NSEZ
+Noida Sector 83
+Noida Sector 137
+Noida Sector 142
+Noida Sector 143
+Noida Sector 144
+Noida Sector 145
+Noida Sector 146
+Noida Sector 147
+Noida Sector 148
+Knowledge Park - 2
+Pari Chowk
+Alpha - 1
+Delta - 1
+GNIDA Office
+Depot
+
+Light Blue Line
+Sector 55-56
+Sector 54 Chowk
+Sector 53-54
+Sector 42-43
+Phase - 1
+Sikandarpur
+Phase - 2
+Phase - 3
+Micromax Moulasri Avenue
+Induslnd Bank Cyber City
+Vodafone Belvedere Towers
+Phase - 2
+
+Orange Line
+New Delhi
+Shivaji Stadium
+Dhaula Kuan
+Delhi Aerocity
+Airport
+Dwarka Sector 21
