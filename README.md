@@ -1,6 +1,5 @@
 # Delhi-Metro
-A console based application that finds the smallest path between two stations. It uses Dijkstra's algorithm. All the stations can be represented as nodes(or vertices) and lines can be represented as edges(or links). The graph is begin created by reading the content from a txt file. The content of the txt file is begin converted into stations, lines and a network. The Structure of txt file is as followed. </br>
-</br>
+A console based application that uses Dijkstra's algorithm to finds the smallest path between two stations. Simple testing is done using JUnit. Txt File contains all the stations and lines of Delhi-Metro. Use-case and class diagram are also provided.</br>
 Structure of txt file: </br>
 StationA</br>
 StationB</br>
@@ -24,8 +23,4 @@ StationB</br>
 LineC</br>
 StationC</br>
 StationF</br>
-StationC</br>
-</br>
-Note: It is assumed that all the lines are forming a closed-shape.</br>
-</br>
-Simple testing is done using JUnit. Use-case and class diagram is also provided. Txt File contains all the stations and lines of Delhi-Metro.
+StationC
