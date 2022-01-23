@@ -1,27 +1,2 @@
 # Delhi-Metro
-A console based application that uses Dijkstra's algorithm to find the shortest route between two stations. Simple testing is done using JUnit. Txt File contains all the stations and lines of Delhi-Metro. Use-case and class diagram are also provided.</br>
-</br>
-Structure of txt file: </br>
-StationA</br>
-StationB</br>
-StationC</br> 
-StationD</br>
-StationE</br>
-StationF</br>
-</br>
-LineA</br>
-StationA</br>
-StationB</br>
-StationC</br>
-StationA</br>
-</br>
-LineB</br>
-StationB</br>
-StationD</br>
-StationE</br>
-StationB</br>
-</br>
-LineC</br>
-StationC</br>
-StationF</br>
-StationC
+Delhi Metro is a console-based application that finds the shortest route between any 2 stations in the Delhi Metro network.
